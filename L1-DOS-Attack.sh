@@ -1,4 +1,4 @@
-This script simultaneously attacks channel 1,6,11
+## This script simultaneously attacks channel 1,6,11
 
 
 #! /bin/bash
