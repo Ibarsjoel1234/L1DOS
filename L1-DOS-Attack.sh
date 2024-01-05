@@ -1,3 +1,6 @@
+This script simultaneously attacks channel 1,6,11
+
+
 #! /bin/bash
 read -p “Enter interface (monitor mode) you wise to use for the attack:” interface
 read -p “Enter channel you wish to attack:” channel1
