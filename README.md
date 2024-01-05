@@ -1,4 +1,4 @@
-# Layer 1 DOS
+# Layer 1 DOS and Spectrum Behavior
 
 Layer 1 Denial of Service (DoS) assault by examining spectrum behaviour as well as a look at the assault utilizing scripting.
 
